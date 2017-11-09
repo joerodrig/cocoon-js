@@ -1,7 +1,7 @@
 {
   "name": "cocoon-js",
   "version": "0.0.4",
-  "description": "",
+  "description": "Webpacker compatible cocoon rubygem code from https://github.com/nathanvda/cocoon",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
